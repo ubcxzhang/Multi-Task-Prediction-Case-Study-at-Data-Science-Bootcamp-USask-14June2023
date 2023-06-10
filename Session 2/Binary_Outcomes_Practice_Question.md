@@ -16,7 +16,7 @@
 6. Using `predict()`, predict the outcome probabilities using the residual stacking built MTPS model
 7. Create the confusion matrix for each binary outcome
     - Use 0.5 as the probability threshold
-        - That is, predicted probability \&ge 0.5 are assigned as 1 and predicted probability \&lt 0 are assigned 0
+        - That is, predicted probability \&ge; 0.5 are assigned as 1 and predicted probability \&lt; 0 are assigned 0
         
 
 
