@@ -11,7 +11,7 @@ Dr. Xuekui Zhang (PhD) is an Assistant Professor at University of Victoria, a Ca
 ## Schedule
 ### Session 1: 9:30am - 11:30am
 - 9:30am-11:00am: Lecture on ensemble machine learning approaches and MTPS by Dr.Zhang
-- 11:00am-11:30am: Tutorial about R code behind MTPS with continous, binary and mixed outcomes by Kyle (TA)
+- 11:00am-11:30am: Tutorial about R code behind MTPS with continuous, binary and mixed outcomes by Kyle (TA)
 ### Session 2: 1:00pm - 2:30pm
 - Practice on R yourself and complete simple exercises with the help of Kyle (TA) and Xiaowen (tutor)
 
