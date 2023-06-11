@@ -38,4 +38,4 @@ After Dr. Zhong's lecture, Kyle will walk through how to utilize MTPS in R. The 
 
 ## Schedule
 - 9:30am-11:00am: Dr. Zhong will outline ensemble machine learning approaches. After this quick introduction, MTPS will be explored.
-- 11:00am-11:30am: Kyle will walk through the R code behind MTPS. They explain how to use MTPS with continous, binary and mixed outcomes
+- 11:00am-11:30am: Kyle will walk through the R code behind MTPS. They explain how to use MTPS with continuous, binary and mixed outcomes
