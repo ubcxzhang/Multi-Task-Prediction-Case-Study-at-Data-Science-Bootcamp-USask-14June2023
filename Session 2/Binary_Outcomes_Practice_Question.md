@@ -4,7 +4,7 @@
 2. Convert `XX` and `YY` into matrices to use in MTPS
     - Use only the last 2 outcomes from `YY`. That is, use `D4T`and `DDI`
 3. Convert the outcome variables into binary values
-    - Use the cutoffs from the MTPS lecture material in session 2
+    - Use the cutoffs from the MTPS lecture material in session 1
         - Use this cutoff code: `cutoffs<-c(1.5,1.5)`
     - Use the following code to convert the outcomes to binary: `for(ii in 1:2) ymat.bin[,ii] <- (10^ymat[,ii] < cutoffs[ii])`
 4. Split the data into training and testing sets. Split the data 80/20
