@@ -2,9 +2,9 @@
 We will introduce ensemble machine learning approaches and introduce the recently developed MTPS method. Then we will demonstrate how to implement this algorithm in R. For this section, Kyle is the teaching assistant (TA) and Xiaowen is the tutor
 
 ## Overview
-Dr. Zhong will outline ensemble machine learning approaches. They will then outline the mechanisms of their newly developed Multi-Task Prediction Using Stacking Algorithms (MTPS) and its uses.
+Dr. Zhang will outline ensemble machine learning approaches. They will then outline the mechanisms of their newly developed Multi-Task Prediction Using Stacking Algorithms (MTPS) and its uses.
 
-After Dr. Zhong's lecture, Kyle will walk through how to utilize MTPS in R. The following will outline the structure of this MTPS R implementation.
+After Dr. Zhang's lecture, Kyle will walk through how to utilize MTPS in R. The following will outline the structure of this MTPS R implementation.
 
 ### Loading in the `HIV` dataset from the `MTPS` package
 - Explore the predictor set `XX`
